@@ -1,11 +1,11 @@
 # PakTour
-My first web development project.
-I was going through a web development bootcamp course by Colt Steele on Udemy.
-He created a web app called YelpCamp and deployed it on Heroku.
-I followed a lot of his code and edited to form a similar personal web app and also deployed it on Heroku.
-It's called PakTour, which initially includes places to visit in Pakistan, their description, some pictures and peoples reviews.
-A cluster map was also included into it using MapBox.
-New users can register and add places to visit and also give reviews on existing ones.
+
+My first web development project called 'PakTour'. This is an app that is meant to collect location information of the go-to spots in all of Pakistan.
+
+Users can create new accounts, login, enter new locations into the database, enter descriptions and add images, and even add comments and reviews on each of the locations.
+
+A cluster map was also included into it using MapBox. It shows the locations of the spots added on a map as cluster points.
+
 This repository contains the files being used other than the node modules.
 
-This is the URL: https://rocky-ravine-96287.herokuapp.com/
+This is the URL to access the app: https://rocky-ravine-96287.herokuapp.com/
